@@ -1,16 +1,11 @@
-.box1 {
-
-}
-.title-text {
-	margin:0 auto;
-}
-.restaurant {
+/*1 section*/
+.title-small {
 	width: 92px;
 	color:  #5863F8 ;
 	font-size: 14px;
 	font-weight: bold; 
 }
-.explore-menu {
+.title-big {
 	width: 498px ;
 	font-size: 42px ;
 	font-weight: bold;
@@ -30,7 +25,7 @@
 	padding-top: 
 }
 .main-text{
-	width: 239px ;
+	width: 260px ;
 	color: #B1B1B1; 
 	font-size: 14px;
 	margin-left: 16px;
@@ -66,4 +61,23 @@
 }
 .mshobeli {
 	margin-bottom: 10px ;
+}
+
+/*2 section*/
+.container-2{
+	width: 1088px ;
+	margin:0 auto;
+}
+.mshobeli-2 {
+
+}
+.box1 {
+	width: 352px ;
+	background-color: #F8F8F8 ;
+	float: left ;
+	margin-right: 10px;
+	text-align: center;
+}
+.section-2-p {
+	width: 260px ;
 }
